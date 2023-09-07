@@ -23,10 +23,33 @@ _Data Engineering Bootcamp Student_
 - Demonstrated strong problem-solving skills, ability to troubleshoot and debug data pipelines and processing issues.
 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Paperchase** (07/2022 - 01/2023)  
+_Data Administrator_
 
-- Any experience relevent to software development
+- Collaborated with cross-functional teams on critical projects, including optimising logistic movements, cash flow forecasting, and seasonal product sign-off. This experience honed my teamwork and collaboration skills, resulting in streamlined project delivery and improved efficiency.
+- Managed and maintained data within Buying and Merchandising systems, ensuring data accuracy and consistency. This meticulous approach led to more reliable reporting, showcasing my expertise in data management and data quality, which is essential for data-driven decision-making.
+- Elevated the logistics stock movement process by implementing reports in Excel. This enhancement boosted data integration and data processing capabilities, contributing to more informed and efficient operations.
+- Successfully managed retail and cost price changes throughout various stages of the product life cycle. This experience deepened my understanding of data governance and data lifecycle management, aligning with best practices and ensuring data integrity throughout product transitions.
+
+
+**Lanterna Education** (04/2022 - 06/2022)  
+_Consultant_
+
+- Lanterna Education acquired Elite IB Tutors on 01/04/2022
+- Engaged by Lanterna in an Operational Consultantship capacity, carrying out ad-hoc operational tasks.
+- Involved in ensuring debts from all regions were recovered during the transition period.
+- Took on additional responsibilities and worked hard to meet deadlines.
+- Relayed important information to clients regarding the acquisition and responded to queries.
+
+
+**Elite IB Tutors** (08/2019 - 03/2022)  
+_Financial Administrator_
+
+- Oversaw outstanding debts across multiple regions, ensuring prompt and efficient debt collection. This involved meticulous attention to detail, data analysis, and proactive communication with clients. As a result, the company experienced improved cash flow.
+- Cultivated and maintained strong client relationships to facilitate the seamless operation of accounts. Regular client interactions via phone and email showcased exceptional communication skills, contributing to increased client satisfaction and loyalty.
+- ​​Proficiently examined extensive data sets in Microsoft Excel, enhancing attention to detail and analytical capabilities. Expertly imported and reconciled statements in Xero, posting line items accurately to the corresponding accounts. This precision and reliability were instrumental in creating monthly financial reports, providing essential insights for strategic decision-making.
+- Thrived in high-pressure situations by resolving issues with upset clients. My positive mindset and problem-solving skills ensured that challenges were met with effective solutions, maintaining client relationships and preserving the company's reputation.
+
 
 ## Skills
 
