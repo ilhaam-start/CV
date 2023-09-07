@@ -10,10 +10,18 @@ Prior to embarking on my journey into the world of Data Engineering, I completed
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Makers Academy** (04/2023 - 08/2023)  
+_Data Engineering Bootcamp Student_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Demonstrated proficiency operating at various stages of the data life cycle, focusing on data storage and processing.
+- Applied SQL for data processing and analysis, including building metrics dashboards and querying relational databases. Utilised Python data analysis libraries such as Jupyter, Pandas and Matplotlib.
+- Leveraged ETL processes to extract data from various sources, transform it, and load into systems.
+- Thrived in an agile learning environment, applying iterative workflow methods to foster collaboration and adaptability within team projects. This approach significantly improved project efficiency and the ability to respond to evolving requirements and challenges. Cultivated interpersonal skills by building positive relationships with others.
+- Applied data engineering best practices, including version control, code documentation, and collaborative development using Git and Jupyter Notebook.
+- Utilised engineering practices such as test-driven development, modular design, debugging and pair programming.
+- Developed batch-processing pipelines on live cloud data using Airflow and AWS, focusing on reproducibility.
+- Demonstrated strong problem-solving skills, ability to troubleshoot and debug data pipelines and processing issues.
+
 
 **Company Name** (start-date to end-date)  
 _Your job title_
