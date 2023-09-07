@@ -50,50 +50,28 @@ _Financial Administrator_
 - ​​Proficiently examined extensive data sets in Microsoft Excel, enhancing attention to detail and analytical capabilities. Expertly imported and reconciled statements in Xero, posting line items accurately to the corresponding accounts. This precision and reliability were instrumental in creating monthly financial reports, providing essential insights for strategic decision-making.
 - Thrived in high-pressure situations by resolving issues with upset clients. My positive mindset and problem-solving skills ensured that challenges were met with effective solutions, maintaining client relationships and preserving the company's reputation.
 
-
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+#### Data Management and Analysis
+My background in Accounting has equipped me with a keen eye for data management and analysis. I have a proven track record of meticulously handling extensive datasets and ensuring data accuracy. This attention to detail was evident during my time as a Data Administrator at Paperchase, where I proactively maintained and managed data within Buying and Merchandising systems. This commitment to data quality led to more reliable reporting, reinforcing my ability to contribute to data-driven decision-making.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+#### Problem-solving and Collaboration
+I have honed my problem-solving and collaboration skills through various professional experiences. During my time as a Data Administrator at Paperchase, I encountered a complex data integration challenge. Our team needed to unify data from multiple sources to streamline logistics stock movement reporting. I took the initiative to collaborate closely with cross-functional teams, including IT and logistics, to identify bottlenecks and develop a scalable solution. This collaborative effort resulted in a more efficient data integration process, improving overall operational effectiveness.
 
+#### Adaptability and Agile Learning
+My transition from a background in Accounting to Data Engineering highlights my adaptability and commitment to agile learning. During my Data Engineering bootcamp at Makers Academy, I faced a steep learning curve as I acquired new technical skills and immersed myself in the world of data technologies. During my Data Engineering bootcamp, I encountered a challenging project that required me to quickly grasp and apply new technologies, such as AWS services. Despite being unfamiliar with the tools at the outset, I embraced the opportunity to learn and adapt, successfully delivering the project within the given timeframe. This experience showcases my ability to thrive in dynamic, fast-paced environments and continuously acquire new skills to excel.
 
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
+#### Attention to Detail and Data Integrity
+Throughout my roles as a Data Administrator at Paperchase and Financial Administrator at Elite IB Tutors, I developed a strong attention to detail. Managing and maintaining data accuracy within complex systems required a meticulous approach. This skill is essential in Data Engineering, where ensuring data integrity is paramount for making informed decisions and developing reliable data pipelines.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Roehampton University (09/2019 - 06/2022)
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- BSc Accounting
+- Grade: 2.1
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Sport – At the start of the year I picked up basketball and I attend sessions weekly in order to build on my skills. I’ve always really enjoyed competitive team sports, so this has been great. I like keeping active so I also go swimming when I can.
+- Reading – I’m passionate about reading and dedicated to achieving my annual reading goal of 25 books.
