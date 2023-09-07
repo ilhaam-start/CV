@@ -6,8 +6,7 @@ Prior to embarking on my journey into the world of Data Engineering, I completed
 
 | Name                              | Description       | Tech/tools                                               |
 | --------------------------------- | ----------------- | -------------------------------------------------------- |
-| **Data Engineering in the Cloud** | Analysed the PISA 2018 dataset and developed a functioning dashboard to be used to visualise and interpret the data. Used efficient data engineering pipelines to enable seamless data transformation and processing. | Python, 
-PostgreSQL, 
+| **Data Engineering in the Cloud** | Analysed the PISA 2018 dataset and developed a functioning dashboard to be used to visualise and interpret the data. Used efficient data engineering pipelines to enable seamless data transformation and processing. | Python, /PostgreSQL, 
 AWS Lambda, 
 API Gateway 
 EventBridge |
