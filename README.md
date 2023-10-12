@@ -71,6 +71,14 @@ Throughout my roles as a Data Administrator at Paperchase and Financial Administ
 - BSc Accounting
 - Grade: 2.1
 
+## Extra Curricular & Certifications
+
+**Accenture North America - Data Analytics and Visualization Job Simulation on Forage** - (10/2023)
+- Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
+- Cleaned, modelled and analysed 7 datasets to uncover insights into content trends to inform strategic decisions.
+- Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
+
+
 ## Hobbies
 
 - Sport – At the start of the year I picked up basketball and I attend sessions weekly in order to build on my skills. I’ve always really enjoyed competitive team sports, so this has been great. I like keeping active so I also go swimming when I can.
